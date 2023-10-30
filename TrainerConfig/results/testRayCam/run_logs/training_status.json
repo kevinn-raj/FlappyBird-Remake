@@ -1,0 +1,200 @@
+{
+    "BirdAgent": {
+        "checkpoints": [
+            {
+                "steps": 819996,
+                "file_path": "results\\testRayCam\\BirdAgent\\BirdAgent-819996.onnx",
+                "reward": 17.013045684151027,
+                "creation_time": 1698492510.4668014,
+                "auxillary_file_paths": [
+                    "results\\testRayCam\\BirdAgent\\BirdAgent-819996.pt"
+                ]
+            },
+            {
+                "steps": 829988,
+                "file_path": "results\\testRayCam\\BirdAgent\\BirdAgent-829988.onnx",
+                "reward": 22.93333625793457,
+                "creation_time": 1698492546.6879156,
+                "auxillary_file_paths": [
+                    "results\\testRayCam\\BirdAgent\\BirdAgent-829988.pt"
+                ]
+            },
+            {
+                "steps": 839979,
+                "file_path": "results\\testRayCam\\BirdAgent\\BirdAgent-839979.onnx",
+                "reward": 17.59230988759261,
+                "creation_time": 1698492582.3385034,
+                "auxillary_file_paths": [
+                    "results\\testRayCam\\BirdAgent\\BirdAgent-839979.pt"
+                ]
+            },
+            {
+                "steps": 849991,
+                "file_path": "results\\testRayCam\\BirdAgent\\BirdAgent-849991.onnx",
+                "reward": 15.481251809746027,
+                "creation_time": 1698492617.4078362,
+                "auxillary_file_paths": [
+                    "results\\testRayCam\\BirdAgent\\BirdAgent-849991.pt"
+                ]
+            },
+            {
+                "steps": 859967,
+                "file_path": "results\\testRayCam\\BirdAgent\\BirdAgent-859967.onnx",
+                "reward": 25.14762196796281,
+                "creation_time": 1698492653.0935078,
+                "auxillary_file_paths": [
+                    "results\\testRayCam\\BirdAgent\\BirdAgent-859967.pt"
+                ]
+            },
+            {
+                "steps": 869975,
+                "file_path": "results\\testRayCam\\BirdAgent\\BirdAgent-869975.onnx",
+                "reward": 25.96522057833879,
+                "creation_time": 1698492687.61683,
+                "auxillary_file_paths": [
+                    "results\\testRayCam\\BirdAgent\\BirdAgent-869975.pt"
+                ]
+            },
+            {
+                "steps": 879995,
+                "file_path": "results\\testRayCam\\BirdAgent\\BirdAgent-879995.onnx",
+                "reward": 10.274075071016947,
+                "creation_time": 1698492723.4945922,
+                "auxillary_file_paths": [
+                    "results\\testRayCam\\BirdAgent\\BirdAgent-879995.pt"
+                ]
+            },
+            {
+                "steps": 889994,
+                "file_path": "results\\testRayCam\\BirdAgent\\BirdAgent-889994.onnx",
+                "reward": 23.668521649307674,
+                "creation_time": 1698492759.0708373,
+                "auxillary_file_paths": [
+                    "results\\testRayCam\\BirdAgent\\BirdAgent-889994.pt"
+                ]
+            },
+            {
+                "steps": 899938,
+                "file_path": "results\\testRayCam\\BirdAgent\\BirdAgent-899938.onnx",
+                "reward": 17.166668444871902,
+                "creation_time": 1698492794.5662858,
+                "auxillary_file_paths": [
+                    "results\\testRayCam\\BirdAgent\\BirdAgent-899938.pt"
+                ]
+            },
+            {
+                "steps": 909978,
+                "file_path": "results\\testRayCam\\BirdAgent\\BirdAgent-909978.onnx",
+                "reward": 30.018522395028008,
+                "creation_time": 1698492829.665069,
+                "auxillary_file_paths": [
+                    "results\\testRayCam\\BirdAgent\\BirdAgent-909978.pt"
+                ]
+            },
+            {
+                "steps": 919995,
+                "file_path": "results\\testRayCam\\BirdAgent\\BirdAgent-919995.onnx",
+                "reward": 18.401854152480762,
+                "creation_time": 1698492864.1308367,
+                "auxillary_file_paths": [
+                    "results\\testRayCam\\BirdAgent\\BirdAgent-919995.pt"
+                ]
+            },
+            {
+                "steps": 929937,
+                "file_path": "results\\testRayCam\\BirdAgent\\BirdAgent-929937.onnx",
+                "reward": 22.333336005608242,
+                "creation_time": 1698492900.1603343,
+                "auxillary_file_paths": [
+                    "results\\testRayCam\\BirdAgent\\BirdAgent-929937.pt"
+                ]
+            },
+            {
+                "steps": 939990,
+                "file_path": "results\\testRayCam\\BirdAgent\\BirdAgent-939990.onnx",
+                "reward": 17.305210307240486,
+                "creation_time": 1698492937.381648,
+                "auxillary_file_paths": [
+                    "results\\testRayCam\\BirdAgent\\BirdAgent-939990.pt"
+                ]
+            },
+            {
+                "steps": 949994,
+                "file_path": "results\\testRayCam\\BirdAgent\\BirdAgent-949994.onnx",
+                "reward": 52.000006675720215,
+                "creation_time": 1698492975.4161012,
+                "auxillary_file_paths": [
+                    "results\\testRayCam\\BirdAgent\\BirdAgent-949994.pt"
+                ]
+            },
+            {
+                "steps": 959992,
+                "file_path": "results\\testRayCam\\BirdAgent\\BirdAgent-959992.onnx",
+                "reward": 22.88333594202995,
+                "creation_time": 1698493010.1456442,
+                "auxillary_file_paths": [
+                    "results\\testRayCam\\BirdAgent\\BirdAgent-959992.pt"
+                ]
+            },
+            {
+                "steps": 969998,
+                "file_path": "results\\testRayCam\\BirdAgent\\BirdAgent-969998.onnx",
+                "reward": 25.74197855481395,
+                "creation_time": 1698493045.3851993,
+                "auxillary_file_paths": [
+                    "results\\testRayCam\\BirdAgent\\BirdAgent-969998.pt"
+                ]
+            },
+            {
+                "steps": 979995,
+                "file_path": "results\\testRayCam\\BirdAgent\\BirdAgent-979995.onnx",
+                "reward": 30.26364031163129,
+                "creation_time": 1698493082.2512882,
+                "auxillary_file_paths": [
+                    "results\\testRayCam\\BirdAgent\\BirdAgent-979995.pt"
+                ]
+            },
+            {
+                "steps": 989968,
+                "file_path": "results\\testRayCam\\BirdAgent\\BirdAgent-989968.onnx",
+                "reward": 24.015792081230565,
+                "creation_time": 1698493117.9901814,
+                "auxillary_file_paths": [
+                    "results\\testRayCam\\BirdAgent\\BirdAgent-989968.pt"
+                ]
+            },
+            {
+                "steps": 999987,
+                "file_path": "results\\testRayCam\\BirdAgent\\BirdAgent-999987.onnx",
+                "reward": 18.533336230686732,
+                "creation_time": 1698493153.7298472,
+                "auxillary_file_paths": [
+                    "results\\testRayCam\\BirdAgent\\BirdAgent-999987.pt"
+                ]
+            },
+            {
+                "steps": 1000147,
+                "file_path": "results\\testRayCam\\BirdAgent\\BirdAgent-1000147.onnx",
+                "reward": 16.737502574920654,
+                "creation_time": 1698493154.1049013,
+                "auxillary_file_paths": [
+                    "results\\testRayCam\\BirdAgent\\BirdAgent-1000147.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000147,
+            "file_path": "results\\testRayCam\\BirdAgent.onnx",
+            "reward": 16.737502574920654,
+            "creation_time": 1698493154.1049013,
+            "auxillary_file_paths": [
+                "results\\testRayCam\\BirdAgent\\BirdAgent-1000147.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.31.0.dev0",
+        "torch_version": "1.10.1+cu113"
+    }
+}

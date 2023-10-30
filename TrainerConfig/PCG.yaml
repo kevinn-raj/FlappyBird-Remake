@@ -1,0 +1,49 @@
+behaviors:       
+  BirdAgent:
+    trainer_type: ppo
+  
+    max_steps: 1e6
+    time_horizon: 64
+    summary_freq: 10000
+    checkpoint_interval: 10000
+    keep_checkpoints: 20
+    
+    hyperparameters:
+      batch_size: 2048
+      beta: 0.003
+      buffer_size: 4096
+      epsilon: 0.2
+      lambd: 0.95
+      learning_rate: 0.001
+      learning_rate_schedule: linear
+      num_epoch: 3    
+
+
+    network_settings:
+      vis_encode_type: simple
+      num_layers: 2
+      normalize: true
+      hidden_units: 512
+      memory: null
+
+
+    reward_signals:
+      extrinsic:
+        strength: 1.0
+        gamma: 0.99
+#      curiosity:
+#        strength: 0.003
+#        gamma: .99
+#        learning_rate: .001
+    threaded: true
+engine_settings:
+  width: 84
+  height: 112
+  quality_level: 5
+  #time_scale: 1
+  target_frame_rate: -1
+  capture_frame_rate: 60
+torch_settings:
+  device: cuda  
+
+

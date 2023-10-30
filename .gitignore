@@ -1,0 +1,8 @@
+# Ignore the Library folder
+Library/**
+Temp/**
+Logs/**
+Logs/
+Backup/**
+UserSettings/**
+External_Assets/**

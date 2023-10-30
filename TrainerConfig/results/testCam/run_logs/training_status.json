@@ -1,0 +1,200 @@
+{
+    "BirdAgent": {
+        "checkpoints": [
+            {
+                "steps": 819960,
+                "file_path": "results\\testCam\\BirdAgent\\BirdAgent-819960.onnx",
+                "reward": 8.63452407504831,
+                "creation_time": 1698482402.6708534,
+                "auxillary_file_paths": [
+                    "results\\testCam\\BirdAgent\\BirdAgent-819960.pt"
+                ]
+            },
+            {
+                "steps": 829992,
+                "file_path": "results\\testCam\\BirdAgent\\BirdAgent-829992.onnx",
+                "reward": 12.500000527926854,
+                "creation_time": 1698482430.1563084,
+                "auxillary_file_paths": [
+                    "results\\testCam\\BirdAgent\\BirdAgent-829992.pt"
+                ]
+            },
+            {
+                "steps": 839972,
+                "file_path": "results\\testCam\\BirdAgent\\BirdAgent-839972.onnx",
+                "reward": 12.187879367308183,
+                "creation_time": 1698482455.2877858,
+                "auxillary_file_paths": [
+                    "results\\testCam\\BirdAgent\\BirdAgent-839972.pt"
+                ]
+            },
+            {
+                "steps": 849998,
+                "file_path": "results\\testCam\\BirdAgent\\BirdAgent-849998.onnx",
+                "reward": 9.62777819401688,
+                "creation_time": 1698482483.1669562,
+                "auxillary_file_paths": [
+                    "results\\testCam\\BirdAgent\\BirdAgent-849998.pt"
+                ]
+            },
+            {
+                "steps": 859971,
+                "file_path": "results\\testCam\\BirdAgent\\BirdAgent-859971.onnx",
+                "reward": 11.090000367164611,
+                "creation_time": 1698482509.2738802,
+                "auxillary_file_paths": [
+                    "results\\testCam\\BirdAgent\\BirdAgent-859971.pt"
+                ]
+            },
+            {
+                "steps": 869936,
+                "file_path": "results\\testCam\\BirdAgent\\BirdAgent-869936.onnx",
+                "reward": 8.200926250881619,
+                "creation_time": 1698482535.1931374,
+                "auxillary_file_paths": [
+                    "results\\testCam\\BirdAgent\\BirdAgent-869936.pt"
+                ]
+            },
+            {
+                "steps": 879986,
+                "file_path": "results\\testCam\\BirdAgent\\BirdAgent-879986.onnx",
+                "reward": 11.555556178092957,
+                "creation_time": 1698482561.5475793,
+                "auxillary_file_paths": [
+                    "results\\testCam\\BirdAgent\\BirdAgent-879986.pt"
+                ]
+            },
+            {
+                "steps": 889960,
+                "file_path": "results\\testCam\\BirdAgent\\BirdAgent-889960.onnx",
+                "reward": 8.805555867652098,
+                "creation_time": 1698482589.5234995,
+                "auxillary_file_paths": [
+                    "results\\testCam\\BirdAgent\\BirdAgent-889960.pt"
+                ]
+            },
+            {
+                "steps": 899972,
+                "file_path": "results\\testCam\\BirdAgent\\BirdAgent-899972.onnx",
+                "reward": 15.11666764318943,
+                "creation_time": 1698482616.0806262,
+                "auxillary_file_paths": [
+                    "results\\testCam\\BirdAgent\\BirdAgent-899972.pt"
+                ]
+            },
+            {
+                "steps": 909964,
+                "file_path": "results\\testCam\\BirdAgent\\BirdAgent-909964.onnx",
+                "reward": 11.652381510961623,
+                "creation_time": 1698482644.0535989,
+                "auxillary_file_paths": [
+                    "results\\testCam\\BirdAgent\\BirdAgent-909964.pt"
+                ]
+            },
+            {
+                "steps": 919955,
+                "file_path": "results\\testCam\\BirdAgent\\BirdAgent-919955.onnx",
+                "reward": 10.942529205618234,
+                "creation_time": 1698482670.9465413,
+                "auxillary_file_paths": [
+                    "results\\testCam\\BirdAgent\\BirdAgent-919955.pt"
+                ]
+            },
+            {
+                "steps": 929983,
+                "file_path": "results\\testCam\\BirdAgent\\BirdAgent-929983.onnx",
+                "reward": 11.268750470131636,
+                "creation_time": 1698482698.151788,
+                "auxillary_file_paths": [
+                    "results\\testCam\\BirdAgent\\BirdAgent-929983.pt"
+                ]
+            },
+            {
+                "steps": 939960,
+                "file_path": "results\\testCam\\BirdAgent\\BirdAgent-939960.onnx",
+                "reward": 10.406667158603668,
+                "creation_time": 1698482725.0246484,
+                "auxillary_file_paths": [
+                    "results\\testCam\\BirdAgent\\BirdAgent-939960.pt"
+                ]
+            },
+            {
+                "steps": 949992,
+                "file_path": "results\\testCam\\BirdAgent\\BirdAgent-949992.onnx",
+                "reward": 9.316667119661966,
+                "creation_time": 1698482752.2907135,
+                "auxillary_file_paths": [
+                    "results\\testCam\\BirdAgent\\BirdAgent-949992.pt"
+                ]
+            },
+            {
+                "steps": 959969,
+                "file_path": "results\\testCam\\BirdAgent\\BirdAgent-959969.onnx",
+                "reward": 11.838889406787025,
+                "creation_time": 1698482778.675851,
+                "auxillary_file_paths": [
+                    "results\\testCam\\BirdAgent\\BirdAgent-959969.pt"
+                ]
+            },
+            {
+                "steps": 969997,
+                "file_path": "results\\testCam\\BirdAgent\\BirdAgent-969997.onnx",
+                "reward": 17.93333387374878,
+                "creation_time": 1698482805.6328638,
+                "auxillary_file_paths": [
+                    "results\\testCam\\BirdAgent\\BirdAgent-969997.pt"
+                ]
+            },
+            {
+                "steps": 979969,
+                "file_path": "results\\testCam\\BirdAgent\\BirdAgent-979969.onnx",
+                "reward": 13.300000705889293,
+                "creation_time": 1698482832.9401693,
+                "auxillary_file_paths": [
+                    "results\\testCam\\BirdAgent\\BirdAgent-979969.pt"
+                ]
+            },
+            {
+                "steps": 989976,
+                "file_path": "results\\testCam\\BirdAgent\\BirdAgent-989976.onnx",
+                "reward": 11.78686924052961,
+                "creation_time": 1698482858.7182307,
+                "auxillary_file_paths": [
+                    "results\\testCam\\BirdAgent\\BirdAgent-989976.pt"
+                ]
+            },
+            {
+                "steps": 999998,
+                "file_path": "results\\testCam\\BirdAgent\\BirdAgent-999998.onnx",
+                "reward": 9.329167157411575,
+                "creation_time": 1698482886.26667,
+                "auxillary_file_paths": [
+                    "results\\testCam\\BirdAgent\\BirdAgent-999998.pt"
+                ]
+            },
+            {
+                "steps": 1000154,
+                "file_path": "results\\testCam\\BirdAgent\\BirdAgent-1000154.onnx",
+                "reward": 9.125926362143623,
+                "creation_time": 1698482886.6387074,
+                "auxillary_file_paths": [
+                    "results\\testCam\\BirdAgent\\BirdAgent-1000154.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000154,
+            "file_path": "results\\testCam\\BirdAgent.onnx",
+            "reward": 9.125926362143623,
+            "creation_time": 1698482886.6387074,
+            "auxillary_file_paths": [
+                "results\\testCam\\BirdAgent\\BirdAgent-1000154.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.31.0.dev0",
+        "torch_version": "1.10.1+cu113"
+    }
+}
