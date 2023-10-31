@@ -774,6 +774,9 @@
     <Reference Include="Unity.Barracuda.iOSBLAS">
       <HintPath>Library\ScriptAssemblies\Unity.Barracuda.iOSBLAS.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Recorder.Base">
+      <HintPath>Library\ScriptAssemblies\Unity.Recorder.Base.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VisualScripting.Core">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
     </Reference>
@@ -791,9 +794,6 @@
     </Reference>
     <Reference Include="Unity.Barracuda.BurstBLAS">
       <HintPath>Library\ScriptAssemblies\Unity.Barracuda.BurstBLAS.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Recorder.Base">
-      <HintPath>Library\ScriptAssemblies\Unity.Recorder.Base.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
@@ -825,11 +825,11 @@
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Barracuda.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Barracuda.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Recorder">
       <HintPath>Library\ScriptAssemblies\Unity.Recorder.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Barracuda.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Barracuda.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
